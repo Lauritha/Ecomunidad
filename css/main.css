@@ -1,0 +1,253 @@
+.container-fluid{
+	margin: 0;
+	max-width: 100%;
+}
+body{
+	margin: 0;
+}
+img{
+	max-width: 100%;
+}
+*{
+	font-family:'Roboto', sans-serif;
+}
+.redes_sociales{
+	width: 40px;
+	height: 40px;
+}
+.redes_sociales1{
+	width: 50px;
+	height: 40px;
+}
+/*estilos de header*/
+header{
+	text-align: center;
+}
+header img{
+	width: 85px;
+	height: 80px;
+}
+header ul{
+	list-style-type: none;
+	margin-top: 30px;
+	text-decoration: none;
+}
+header li{
+	display: inline;
+	margin-right: 10px;
+}
+.lista{
+	border-right: 1px solid #A2A2A2;
+	padding: 5px 20px;
+}
+.lista1{
+	margin-left: 10px;
+}
+li a{
+	text-decoration: none;
+	color: #A2A2A2;
+}
+/*estilo portada*/
+.semilla{
+	height: 350px;
+	width: 1375px;
+	overflow: hidden;
+}
+/*estilos de intro*/
+.intro{
+	text-align: center;
+	padding: 20px;
+	background-color: #F2EDED;
+	height: 180px;
+}
+.intro p{
+	font-size: medium;
+	color: #B8B3B3;
+}
+.introduccion{
+	text-align: center;
+	width: 800px;
+	height: 200px;
+	margin-left: 220px;
+	margin-top: 40px;
+}
+/*mision y vision*/
+.mision{
+	text-align: center;
+	font-size: 14px;
+	font-weight: lighter;
+	margin-top: 50px;
+}
+.mision h4{
+	font-size: 18px;
+	font-weight: bold;
+}
+.mision img{
+	width: 120px;
+	height: 120px;
+}
+.myv{
+	margin-left: 120px;
+	margin-bottom: 50px;
+	width: 400px;
+}
+/*estilos de metodologia*/
+.txt{
+	margin-top: 30px;
+	text-align: center;
+}
+.parrafo{
+	width: 500px;
+	height: 200px;
+	margin-top: 20px;
+	margin-left: 70px;
+	text-align: center;
+}
+.txt h3{
+	margin-top: 50px;
+}
+/*estilos de servicio*/
+.servicios{
+	text-align: center;
+	margin-top: 30px;
+}
+.services{
+	margin: 80px 260px;
+	width: 800px;
+}
+.services h2{
+	font-weight: 500;
+	margin-bottom: 30px;
+}
+.services p{
+	font-size: 16px;
+}
+.serv{
+	width: 100px;
+	height: 100px;
+}
+.servicios h3{
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+.nuestros-servicios{
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+/*estilo de proyectos*/
+.fondo{
+	background-color: #53A453;
+	padding: 
+	box-sizing:border-box;
+	padding: 70px;
+	text-align: center;
+	margin-top: 50px;
+}
+.info{
+	width: 400px;
+	margin-left: 70px;
+	color: #ffffff;
+	font-weight: 200;
+}
+.proyectos h2{
+	color: #ffffff;
+	font-weight: 400;
+	margin-top: 20px;
+}
+.ninos{
+	width: 500px;
+	height: 350px;
+}
+.proyectos h3{
+	color: #ffffff;
+	font-weight: 300;
+}
+/*estilos de equipo*/
+.gabriela{
+	border-radius: 150px;
+	width: 200px;
+	height: 200px;
+	margin: 30px;
+}
+.equipo{
+	margin-top: 50px;
+	text-align: center;
+}
+.equipo1{
+	text-align: right;
+	color: #0B6F35;
+	font-weight: 400;
+}
+.descripcion{
+	width: 400px;
+	margin-left: 70px; 
+	font-weight: 300;
+	font-size: 14px;
+}
+.redes{
+	width: 30px;
+	height: 30px;
+	margin: 30px 5px 30px 5px;
+}
+/*estilos del blog*/
+.blog{
+	margin-top: 50px;
+	text-align: left;
+	box-sizing: border-box;
+}
+.articulo{
+	margin: 40px 70px 0px 0px;
+
+}
+.art{
+	text-align: left;
+	margin-bottom: 40px;	
+}
+.art h4{
+	font-weight: 300;
+}
+.flecha2{
+	margin-top: 190px;
+}
+.flecha{
+	margin-top: 160px;
+}
+.blog1{
+	text-align: right;
+}
+/*estilos de contacto*/
+.sociales{
+	border: 1px solid #D3FFDF;
+	float: left;
+	width: 300px;
+	height: 240px;
+	padding-top: 20px;
+	padding-left: 15px;
+	color: #ffffff;
+	font-size: 16px;
+}
+.contacto{
+	background-color: #4B4949;
+	padding: 50px;
+	box-sizing: border-box;
+}
+.sociales img{
+	margin-top: 130px;
+	margin-left: 160px;
+}
+.redes_sociales1{
+	width: 40px;
+	height: 30px;
+}
+footer{
+	background-color: #E8E2E2;
+	padding: 50px;
+}
+.web2{
+	text-align: right;
+}
+.laboratoria{
+	text-decoration: none;
+	color: #F1C708;
+}
